@@ -1,0 +1,1001 @@
+Name,Age,Country,Score
+Larry,38,Bahamas,98
+Michael,48,Uganda,73
+Bailey,29,Thailand,80
+Michael,57,Lao People's Democratic Republic,66
+David,38,American Samoa,86
+Glenn,27,Bhutan,64
+Kaitlin,58,United States Virgin Islands,93
+Anne,22,Maldives,74
+Toni,38,United States Virgin Islands,83
+Judith,38,Pitcairn Islands,65
+Louis,42,Moldova,64
+Danielle,39,Bermuda,68
+Ryan,51,Maldives,97
+Gary,52,Tunisia,65
+Adam,21,Mozambique,91
+Kevin,43,Angola,60
+Nicholas,48,Netherlands Antilles,76
+Kara,53,Micronesia,90
+Carolyn,46,Uganda,61
+Sara,38,Malta,97
+David,60,Saudi Arabia,64
+Thomas,38,Dominica,94
+Paul,23,Benin,78
+Brooke,32,Slovakia (Slovak Republic),78
+Julia,31,Cameroon,98
+Russell,38,Slovenia,73
+James,22,American Samoa,96
+Christopher,51,French Guiana,73
+Laura,24,Turks and Caicos Islands,87
+Sherri,27,Iceland,87
+Daniel,33,Trinidad and Tobago,99
+Kelli,21,Puerto Rico,100
+Andrea,52,Tunisia,91
+Troy,49,Indonesia,86
+Stacy,59,Cocos (Keeling) Islands,61
+Andrew,59,Djibouti,68
+Melissa,36,Liberia,96
+Loretta,23,Bouvet Island (Bouvetoya),96
+David,22,Senegal,71
+Jose,34,Guernsey,83
+Jennifer,39,Malta,67
+Michael,32,Suriname,96
+Victoria,39,Korea,88
+Aaron,55,Zambia,96
+David,41,Mexico,97
+Brooke,43,Timor-Leste,82
+James,27,Croatia,89
+Bobby,18,Zimbabwe,94
+Lauren,60,Solomon Islands,89
+Lindsey,26,Uzbekistan,60
+Brian,58,Saudi Arabia,96
+Kelly,58,Bouvet Island (Bouvetoya),77
+Desiree,35,Cote d'Ivoire,74
+Julie,33,Oman,67
+Julia,25,Cook Islands,76
+Hannah,53,Ecuador,71
+Grant,18,Faroe Islands,77
+Jonathan,26,Saint Barthelemy,100
+Samantha,59,Guyana,84
+Justin,25,Qatar,81
+Melissa,26,Djibouti,70
+Donna,46,Norfolk Island,91
+Troy,52,Saint Lucia,70
+Barbara,25,India,81
+Maria,19,Kyrgyz Republic,65
+Sharon,36,Greece,100
+Megan,29,Liechtenstein,68
+Chelsea,58,Colombia,89
+Kevin,56,Korea,92
+Leslie,31,Saint Kitts and Nevis,98
+Melinda,26,Pakistan,90
+Nancy,20,Malaysia,99
+Martha,45,Swaziland,91
+Brittany,20,Morocco,84
+Edward,38,Bhutan,80
+Jennifer,54,Sudan,79
+Andrew,35,Antigua and Barbuda,62
+Jill,46,Northern Mariana Islands,92
+Renee,18,Ethiopia,71
+Daniel,48,Aruba,68
+Melissa,33,Burkina Faso,74
+Kelly,51,French Polynesia,61
+Edwin,50,Montenegro,87
+Jason,50,Saint Martin,82
+Terrance,55,Seychelles,85
+Margaret,44,United States of America,84
+Patricia,52,Turkey,64
+Diane,30,Cape Verde,99
+Sarah,59,Luxembourg,79
+Cassandra,19,Timor-Leste,78
+Mary,60,Sao Tome and Principe,86
+Phillip,19,Maldives,62
+Tracy,42,Anguilla,79
+Daniel,24,Dominican Republic,83
+Manuel,43,Niue,64
+Tammy,26,Bosnia and Herzegovina,64
+Vicki,56,Ukraine,86
+Jeanette,31,Panama,100
+Justin,35,Botswana,66
+Dylan,24,Indonesia,62
+Ronald,60,Cambodia,90
+Monica,43,United States Virgin Islands,74
+Stephanie,41,Tuvalu,66
+Scott,28,Honduras,90
+Logan,57,Iraq,66
+Tyler,59,United States Minor Outlying Islands,92
+John,43,Mayotte,95
+Debra,23,Guernsey,76
+Chad,48,Switzerland,89
+Patrick,58,Norfolk Island,99
+Adam,51,Cote d'Ivoire,75
+Travis,42,Peru,82
+Jessica,24,Samoa,90
+John,55,Turkey,73
+Toni,19,Pakistan,62
+Michael,47,Japan,67
+Richard,19,Oman,89
+Kathleen,49,Micronesia,97
+Brenda,45,South Georgia and the South Sandwich Islands,85
+Hayley,19,Somalia,70
+Dana,41,Saudi Arabia,91
+Michelle,39,Nepal,76
+Patrick,60,Andorra,63
+Juan,36,Central African Republic,66
+Gary,39,Bouvet Island (Bouvetoya),98
+Charles,48,New Zealand,62
+Michael,37,Panama,61
+Kayla,40,Mongolia,69
+Sarah,27,Tuvalu,74
+Jacqueline,32,Venezuela,75
+Renee,41,Antigua and Barbuda,71
+Amanda,48,Turks and Caicos Islands,94
+Melissa,47,Kenya,82
+Rachel,45,Moldova,72
+Teresa,30,Hungary,82
+Julia,18,Jordan,92
+David,23,Bermuda,68
+Jessica,32,Croatia,97
+Michael,27,Sudan,60
+Susan,32,Cayman Islands,92
+Glenn,32,Benin,75
+Jacqueline,37,Moldova,91
+Melissa,27,Korea,100
+Andrew,59,Myanmar,76
+Kelly,53,Uruguay,65
+Monica,50,Hungary,72
+Derek,35,Bangladesh,64
+George,39,Ghana,73
+Cassandra,23,Guatemala,68
+Stephen,30,Gambia,81
+Cheyenne,32,Zambia,87
+Matthew,40,Albania,99
+Margaret,60,Korea,90
+Sean,34,El Salvador,80
+Jason,50,Solomon Islands,69
+Alexander,22,Antarctica (the territory South of 60 deg S),60
+Sean,37,El Salvador,89
+Larry,38,Japan,84
+Amy,59,Mongolia,68
+Eric,45,Tuvalu,95
+Adam,30,Belize,68
+Steve,52,Kiribati,76
+Jennifer,26,Dominican Republic,84
+Emily,36,Trinidad and Tobago,82
+Rachel,53,Albania,94
+Brandy,28,Rwanda,83
+Danielle,42,Spain,61
+Anthony,20,Morocco,79
+Michael,19,Cape Verde,96
+Allison,27,Malawi,86
+Christie,57,Lesotho,93
+Justin,20,Kazakhstan,69
+Robert,39,Singapore,66
+Lorraine,22,Christmas Island,98
+Cynthia,29,El Salvador,91
+Kim,21,Rwanda,63
+Gabriel,56,Ecuador,95
+Jose,22,Faroe Islands,93
+Holly,41,Chad,69
+Seth,38,Ukraine,66
+Maria,24,Falkland Islands (Malvinas),90
+Justin,37,Portugal,67
+Dawn,26,Denmark,81
+Carolyn,41,Montenegro,79
+Jessica,50,Thailand,95
+Robert,57,Bahamas,86
+Anthony,51,Equatorial Guinea,85
+Anthony,38,Northern Mariana Islands,69
+Christopher,32,Suriname,81
+Theresa,24,Saint Lucia,90
+Carolyn,59,Myanmar,72
+Andrew,57,Honduras,76
+Christian,37,Botswana,79
+Timothy,50,Korea,98
+Emma,33,Montenegro,68
+Christina,28,Italy,87
+Chase,60,Oman,98
+Mario,26,Bahamas,69
+Nathaniel,30,Palau,84
+Gregory,50,Mauritania,60
+Patricia,49,Fiji,70
+Jennifer,29,Burkina Faso,98
+John,23,Heard Island and McDonald Islands,95
+Charles,46,Romania,69
+Patrick,28,Switzerland,75
+Lisa,38,Australia,67
+Carolyn,51,American Samoa,64
+Brittany,19,Svalbard & Jan Mayen Islands,88
+Jane,51,Greenland,100
+Michelle,55,Syrian Arab Republic,75
+Jacob,53,Latvia,78
+Craig,35,Peru,62
+Nicholas,39,Italy,92
+Candice,42,Djibouti,64
+James,45,Slovakia (Slovak Republic),62
+David,31,Philippines,87
+Joseph,59,Norway,81
+Spencer,31,Cote d'Ivoire,61
+Julie,20,Malaysia,96
+Melissa,34,Malta,81
+Brianna,40,Croatia,99
+Rebecca,55,Togo,60
+James,37,Libyan Arab Jamahiriya,98
+Gabrielle,47,Azerbaijan,66
+Daniel,28,Equatorial Guinea,99
+Barbara,21,Zimbabwe,63
+Crystal,46,El Salvador,87
+Brian,50,China,89
+Dennis,32,Azerbaijan,93
+Juan,18,Australia,75
+Lindsay,38,Macedonia,82
+Joseph,44,Morocco,80
+Andrea,23,Iran,85
+Jamie,21,United Kingdom,75
+Daniel,30,Yemen,82
+Kelsey,56,Djibouti,90
+Edward,19,Libyan Arab Jamahiriya,94
+Alvin,36,Macao,63
+Michael,18,Kenya,72
+Nathaniel,42,Lao People's Democratic Republic,83
+Lisa,52,Barbados,69
+Lisa,33,Korea,66
+Ashley,20,Libyan Arab Jamahiriya,73
+David,47,Mali,98
+Dean,19,Saint Lucia,82
+Thomas,36,Croatia,69
+Catherine,38,Palau,81
+Meghan,33,Aruba,91
+Julie,49,Luxembourg,76
+Christopher,18,Ecuador,93
+Maurice,39,Haiti,93
+Alvin,22,Indonesia,96
+David,49,Mexico,83
+Laura,23,Saint Lucia,91
+Samuel,32,Bolivia,69
+Summer,35,Holy See (Vatican City State),64
+Jerome,55,Western Sahara,62
+Duane,30,Myanmar,99
+Cheryl,24,Portugal,85
+Elizabeth,24,United Arab Emirates,92
+Tina,34,Nauru,91
+April,35,Kuwait,90
+David,36,Suriname,80
+Kelly,39,Timor-Leste,81
+Kathryn,48,Sudan,63
+Hunter,18,Algeria,86
+Jesus,20,Turks and Caicos Islands,86
+Philip,27,Congo,72
+Joseph,58,Ecuador,94
+Amanda,50,Luxembourg,62
+David,59,Japan,61
+James,48,Kyrgyz Republic,92
+Joseph,27,Holy See (Vatican City State),60
+Gloria,24,Qatar,71
+Melissa,41,Grenada,85
+Elizabeth,34,Puerto Rico,62
+Elizabeth,51,Gabon,61
+Jeanne,50,Indonesia,80
+Adam,48,Japan,100
+Christine,55,Marshall Islands,78
+Gina,60,Haiti,84
+Melissa,18,Holy See (Vatican City State),79
+Jenna,37,Martinique,98
+Tanya,40,Germany,77
+Marcus,28,Armenia,63
+Jennifer,23,Sao Tome and Principe,82
+Bryce,54,Portugal,94
+Samantha,36,Mauritania,87
+Derrick,56,Tanzania,80
+Steven,32,Switzerland,95
+Ashley,34,Cambodia,89
+Maria,59,Guatemala,82
+Lisa,29,Costa Rica,91
+Darlene,43,Azerbaijan,77
+Mackenzie,59,Lesotho,94
+Jay,44,Sudan,89
+Lori,55,Indonesia,92
+Jane,36,Fiji,92
+Mark,23,Mayotte,88
+David,47,Cook Islands,94
+Kyle,19,British Virgin Islands,88
+Rachel,55,Korea,86
+Melody,39,Peru,71
+Sydney,50,Liechtenstein,72
+Jamie,55,Vietnam,60
+Michael,28,Ethiopia,87
+Linda,23,Namibia,87
+Bryan,51,Lithuania,62
+Christopher,28,Denmark,82
+Eric,33,Nauru,81
+Latoya,49,Macedonia,66
+Cassandra,32,Taiwan,86
+Natalie,47,Gibraltar,87
+Jacob,49,Saint Lucia,85
+Nicole,29,Trinidad and Tobago,72
+Meghan,50,Lebanon,81
+Jeremy,37,Argentina,61
+Audrey,54,Peru,63
+Gabrielle,30,Poland,67
+Scott,34,Isle of Man,78
+Steven,37,Paraguay,62
+Toni,58,Slovakia (Slovak Republic),99
+Victoria,48,Italy,81
+Alexandra,48,Costa Rica,85
+Derek,20,Cyprus,100
+Peter,54,Korea,88
+Theresa,47,Liberia,75
+Carlos,38,Paraguay,91
+Laura,37,Netherlands Antilles,64
+Sheena,47,Monaco,92
+Julie,37,Cape Verde,87
+Briana,26,Kuwait,100
+Tiffany,25,Malta,68
+Nicole,40,Cocos (Keeling) Islands,91
+Troy,23,Croatia,79
+Mackenzie,27,Falkland Islands (Malvinas),64
+Charles,60,Samoa,79
+Hayley,28,Liechtenstein,99
+Angela,52,Kazakhstan,65
+Alexis,32,Cyprus,100
+Cynthia,24,Cyprus,79
+Walter,53,Nicaragua,71
+Todd,50,Greece,72
+David,33,Ethiopia,82
+Kristin,31,Tanzania,92
+Amy,47,Samoa,81
+Michael,27,Moldova,90
+Jeremy,44,Barbados,89
+James,18,Western Sahara,67
+Dana,40,Montenegro,75
+Joshua,36,Denmark,90
+Christine,31,United States Virgin Islands,73
+John,43,Western Sahara,99
+Derek,45,Mauritania,68
+Jeffrey,43,Myanmar,66
+Larry,54,Nicaragua,99
+Brian,50,Christmas Island,60
+Jason,46,British Virgin Islands,61
+Nicole,28,Saudi Arabia,70
+Tina,25,Malawi,62
+Heather,53,Cameroon,66
+Gilbert,55,Luxembourg,60
+Morgan,37,Martinique,76
+Kevin,25,Ecuador,68
+Laurie,25,Poland,85
+Mark,37,Mongolia,90
+Charlene,41,Bulgaria,88
+Melissa,40,Albania,86
+Bethany,59,Palau,85
+Vanessa,51,Eritrea,60
+Danielle,37,Guam,77
+Ashley,31,Ethiopia,73
+Jessica,47,Paraguay,61
+Crystal,29,Puerto Rico,79
+Joyce,54,Bosnia and Herzegovina,75
+Frank,28,Sao Tome and Principe,75
+Julie,50,Singapore,90
+Elizabeth,41,Maldives,72
+Kevin,38,Puerto Rico,78
+John,29,Christmas Island,84
+Justin,39,Iraq,69
+Rachel,24,Bahamas,98
+Cody,25,Aruba,63
+Craig,56,Venezuela,93
+Paul,27,Tuvalu,83
+Andrew,44,Saint Martin,74
+Nicholas,35,Netherlands,87
+Ronnie,18,Belize,99
+Jessica,48,Paraguay,85
+Jennifer,35,Sri Lanka,94
+Alison,34,French Southern Territories,97
+Robert,28,Russian Federation,98
+Thomas,45,Niger,95
+Matthew,50,Cape Verde,66
+Raymond,48,Brazil,65
+Ryan,30,Cayman Islands,85
+Linda,39,United Kingdom,96
+Sue,37,Botswana,86
+Teresa,35,Western Sahara,91
+Kevin,41,Barbados,98
+Greg,18,China,69
+Scott,51,San Marino,82
+Stephen,55,Canada,70
+Jason,25,Yemen,65
+Luke,50,Palestinian Territory,75
+Robert,40,Barbados,83
+Haley,59,Equatorial Guinea,68
+Luis,40,China,89
+Brandon,29,Armenia,83
+Julie,41,Turkey,85
+Christina,38,Mongolia,96
+Andrew,23,Iceland,67
+Holly,22,Liechtenstein,87
+Carolyn,23,Bouvet Island (Bouvetoya),87
+Kelly,56,Congo,88
+Samuel,60,Cambodia,66
+Jay,50,Benin,98
+Mary,24,Algeria,88
+Dana,32,Western Sahara,65
+Monica,58,Svalbard & Jan Mayen Islands,73
+Mark,23,Micronesia,86
+Sarah,48,Angola,85
+Sharon,34,Algeria,84
+Amanda,29,British Indian Ocean Territory (Chagos Archipelago),95
+Mary,55,Equatorial Guinea,88
+Carol,42,Cote d'Ivoire,61
+Todd,57,Peru,93
+Andrew,56,Vietnam,86
+John,53,Saint Helena,92
+Regina,44,Montenegro,90
+Shannon,40,French Polynesia,79
+Matthew,39,Ecuador,99
+Amy,26,Cambodia,98
+Christopher,43,Norway,85
+Kristy,47,Greenland,94
+Andrea,20,United States of America,89
+Michael,25,Bosnia and Herzegovina,81
+Eric,33,Iceland,66
+Thomas,55,Mali,62
+Cassandra,21,Argentina,82
+Henry,48,Tuvalu,76
+Cynthia,40,Comoros,70
+Thomas,46,Cook Islands,71
+Valerie,21,Saint Martin,85
+Christy,58,Cote d'Ivoire,81
+Joan,59,Pitcairn Islands,93
+Susan,36,Grenada,93
+Sarah,57,Ghana,88
+Susan,38,United Kingdom,61
+Andrew,38,Angola,90
+Troy,42,Vanuatu,88
+Jose,21,Tanzania,70
+Michelle,28,Reunion,65
+Heather,18,Marshall Islands,69
+Christine,48,Papua New Guinea,91
+Hannah,38,Korea,84
+Michael,55,Slovakia (Slovak Republic),77
+Jasmine,29,Saint Helena,100
+Maria,60,Spain,89
+Tommy,20,Russian Federation,65
+Michael,45,Haiti,82
+Tyler,32,Timor-Leste,73
+Kelsey,43,Ireland,88
+Gerald,32,Pakistan,89
+Brian,20,Colombia,90
+Phillip,50,Libyan Arab Jamahiriya,80
+Benjamin,20,Bolivia,67
+Robert,47,Ecuador,76
+Michelle,22,Ecuador,71
+John,32,Azerbaijan,88
+Ashley,52,Canada,91
+Shirley,50,Vanuatu,78
+Billy,52,Montserrat,80
+Jennifer,26,Bangladesh,69
+Eric,31,United States Minor Outlying Islands,70
+Frank,35,Canada,96
+Nancy,37,Djibouti,84
+Tyrone,30,Vietnam,71
+William,43,United States Virgin Islands,90
+Nancy,23,Samoa,83
+Anthony,19,Finland,73
+Kayla,54,Kenya,69
+Andrew,33,Jamaica,82
+Anthony,55,Mauritius,94
+Stephanie,46,Tuvalu,86
+Kristie,56,Greece,61
+David,40,Martinique,100
+Jennifer,52,Ethiopia,95
+Catherine,33,Burundi,97
+Heidi,39,Zimbabwe,84
+Gerald,48,Liberia,92
+Michael,25,Gibraltar,89
+Dwayne,21,Turks and Caicos Islands,91
+Pamela,22,Singapore,85
+Chris,54,Austria,94
+Richard,48,United States of America,71
+Kevin,23,Western Sahara,70
+Ruth,56,Nicaragua,83
+James,45,Denmark,69
+Stephen,38,Mauritius,79
+Julie,33,Brunei Darussalam,62
+Lindsey,50,Eritrea,98
+Jessica,51,Ireland,71
+Gregory,30,Solomon Islands,91
+Derrick,35,Congo,98
+Dawn,32,Paraguay,94
+Carrie,41,Jersey,65
+Terri,58,Christmas Island,88
+Kayla,60,Oman,80
+Allison,47,Morocco,100
+Christine,39,Cook Islands,84
+Karen,55,Tokelau,78
+Jeremiah,54,El Salvador,88
+Andrea,39,Iran,75
+Christopher,21,Djibouti,93
+John,42,Guernsey,89
+Stephanie,34,Latvia,80
+Sara,53,Bangladesh,68
+Sarah,38,Puerto Rico,85
+Veronica,32,Venezuela,70
+Mark,25,Somalia,66
+Chelsea,32,Zambia,74
+Ryan,48,Kazakhstan,82
+Christine,40,Guyana,84
+Rhonda,30,Seychelles,98
+Cassandra,45,Indonesia,84
+Timothy,33,Iraq,63
+Sarah,53,China,95
+Robert,49,Turks and Caicos Islands,84
+Aaron,37,Heard Island and McDonald Islands,64
+Kathy,60,Uganda,61
+Jamie,29,Kazakhstan,98
+Norma,19,Tuvalu,96
+Timothy,60,Bahamas,88
+Brittany,33,Samoa,73
+Timothy,24,Bhutan,64
+Terri,34,Australia,83
+Anna,28,Honduras,73
+Aaron,27,Bangladesh,88
+Brittany,33,Chile,97
+Shawn,58,Philippines,80
+Benjamin,45,Tunisia,73
+Thomas,45,Venezuela,79
+Daniel,60,Indonesia,68
+Amber,53,Gabon,94
+Nathan,24,Uzbekistan,97
+Sara,22,Turks and Caicos Islands,81
+Mark,33,Mozambique,84
+Elizabeth,18,Kuwait,74
+Cameron,33,British Indian Ocean Territory (Chagos Archipelago),81
+Amber,44,Turks and Caicos Islands,94
+Ashley,44,Panama,84
+Bobby,40,Malaysia,60
+Paul,39,Malaysia,83
+Anthony,24,Portugal,88
+Rhonda,35,Lao People's Democratic Republic,95
+Brittney,45,Moldova,99
+Gregory,52,Brazil,78
+Monique,45,Ghana,78
+Kimberly,57,Israel,64
+Maurice,35,Monaco,92
+Samantha,22,Jersey,80
+Timothy,43,Tajikistan,83
+Christopher,48,Madagascar,60
+Lance,20,Vanuatu,73
+Nathan,60,Gibraltar,63
+Edwin,33,Vanuatu,86
+Deborah,27,Haiti,73
+Mary,50,Denmark,83
+Melissa,57,Monaco,80
+Patrick,24,Libyan Arab Jamahiriya,64
+Preston,29,Greenland,94
+Tara,18,Malta,89
+Melissa,39,Zambia,89
+Jesus,60,Bosnia and Herzegovina,88
+Ronald,36,United States Minor Outlying Islands,96
+Andrea,37,Sao Tome and Principe,97
+Alyssa,32,Micronesia,78
+Kenneth,41,Benin,60
+Jared,54,Nauru,94
+Jessica,50,Jamaica,64
+Bruce,41,Tonga,99
+Bruce,60,French Polynesia,68
+Raven,47,Romania,81
+Rachel,28,French Polynesia,68
+Shannon,51,Japan,98
+Johnny,32,Mexico,72
+Austin,47,South Georgia and the South Sandwich Islands,90
+Robert,48,El Salvador,82
+Joann,27,Congo,91
+Allen,46,Holy See (Vatican City State),67
+Joshua,31,Turkmenistan,64
+Jose,18,Kenya,83
+Rose,39,Bulgaria,64
+David,60,South Africa,61
+Amy,19,Mauritania,69
+Matthew,35,Guatemala,95
+Frank,29,Latvia,100
+Neil,25,Malta,94
+Thomas,60,Bosnia and Herzegovina,77
+Tracey,44,Tuvalu,73
+Harold,20,Honduras,73
+Madeline,19,Ukraine,92
+Amber,43,Pakistan,76
+Alexander,27,Netherlands Antilles,61
+David,38,Chile,63
+Tammy,21,Bangladesh,84
+Anne,52,Papua New Guinea,85
+Kristin,33,Indonesia,90
+Erica,59,Nepal,87
+Michelle,43,Albania,88
+Nicholas,21,Kenya,98
+Erica,28,Cayman Islands,83
+Meghan,24,Anguilla,68
+Michael,35,Paraguay,68
+Steven,54,Nepal,64
+Gail,29,Venezuela,61
+Victor,58,China,80
+Ricardo,20,Zimbabwe,75
+Melissa,42,Bolivia,96
+Leonard,56,Zimbabwe,88
+James,35,Bosnia and Herzegovina,65
+Wanda,43,Bermuda,85
+Brenda,49,Moldova,70
+Mark,40,Brazil,67
+Edward,23,Faroe Islands,82
+David,38,Mayotte,94
+Kelly,55,Canada,76
+Richard,51,Guadeloupe,73
+Christopher,42,Maldives,60
+James,48,Netherlands,80
+Lisa,53,Chad,69
+Anne,48,Australia,89
+Jerry,34,Denmark,63
+Tiffany,57,Tunisia,82
+James,22,Denmark,95
+David,31,Myanmar,85
+Oscar,31,Macao,69
+Mark,38,Papua New Guinea,86
+Victoria,50,Monaco,72
+Samantha,23,Jordan,93
+Anthony,48,Lebanon,68
+Cassie,34,Montenegro,85
+Cindy,50,Mexico,82
+Joseph,24,Iceland,78
+Natasha,22,Equatorial Guinea,95
+Todd,23,Peru,70
+Lydia,58,Kazakhstan,83
+Martin,47,Russian Federation,83
+Bethany,54,Dominican Republic,70
+Kristy,49,El Salvador,75
+Samantha,59,Saint Pierre and Miquelon,61
+Trevor,60,Niger,86
+Jill,41,Svalbard & Jan Mayen Islands,66
+Julie,23,Saudi Arabia,92
+Jasmine,58,Taiwan,91
+Donna,58,Saint Martin,85
+Timothy,52,Niue,89
+Tara,31,Saint Barthelemy,92
+Carmen,47,Romania,88
+Marilyn,38,Guinea,78
+Brianna,41,Palestinian Territory,68
+George,44,Panama,91
+Holly,56,Algeria,80
+Cassie,23,China,99
+Charles,59,Suriname,92
+Ryan,40,Kiribati,91
+James,57,Sierra Leone,74
+Lisa,32,Grenada,66
+Rhonda,32,Morocco,67
+William,21,Switzerland,92
+Ronald,43,Jersey,67
+Elizabeth,18,Latvia,84
+Michelle,46,Anguilla,60
+Caleb,35,Macedonia,69
+Steven,46,South Africa,62
+April,28,Taiwan,89
+Audrey,22,Bolivia,61
+Joshua,53,Greenland,91
+Brandon,20,Slovakia (Slovak Republic),98
+Alex,19,United States of America,93
+Christopher,53,Estonia,71
+Gregory,53,Slovakia (Slovak Republic),69
+Anne,49,Reunion,70
+John,37,Kenya,71
+Kirk,42,Liechtenstein,77
+Alejandro,36,American Samoa,99
+Kimberly,46,Bosnia and Herzegovina,74
+Heather,25,Angola,84
+Christina,49,Lao People's Democratic Republic,79
+Chelsea,31,Monaco,86
+Gerald,35,Lithuania,79
+Christopher,37,Cook Islands,81
+Stacy,33,Mozambique,61
+Brittany,37,Bhutan,66
+Angela,18,Ireland,62
+Joshua,53,Benin,65
+Christopher,55,Yemen,95
+Charlene,32,Guam,69
+Michele,41,Malaysia,86
+Melanie,54,South Georgia and the South Sandwich Islands,100
+Steven,47,Tokelau,74
+Tara,57,Belize,67
+Vincent,56,Bolivia,60
+Frances,25,Bouvet Island (Bouvetoya),81
+Albert,26,Guernsey,94
+Andrew,18,Isle of Man,83
+Colleen,33,Saint Barthelemy,93
+Lisa,20,Saint Kitts and Nevis,66
+Mariah,54,Kuwait,84
+Jeffrey,48,Slovakia (Slovak Republic),67
+Andrew,31,Israel,60
+Sandra,34,Montserrat,60
+Christopher,43,Turks and Caicos Islands,100
+Randy,46,Mauritius,63
+Jeremy,23,Norway,82
+Samantha,19,Zimbabwe,88
+Joseph,49,Australia,83
+Justin,42,Cote d'Ivoire,67
+Veronica,60,Poland,79
+Brian,18,Turkey,80
+Daniel,44,Cuba,67
+Denise,31,Myanmar,84
+Jorge,59,Germany,71
+Rebecca,19,South Africa,83
+Travis,32,Afghanistan,98
+Kevin,38,Slovakia (Slovak Republic),84
+Mary,22,Libyan Arab Jamahiriya,74
+Thomas,37,Samoa,83
+Alexander,31,Eritrea,91
+Kenneth,42,Israel,91
+Gabriel,50,Mexico,91
+Keith,57,Tuvalu,68
+Anthony,53,Switzerland,61
+Barbara,20,Haiti,100
+Samuel,33,Ecuador,81
+Nicole,54,Libyan Arab Jamahiriya,94
+Christine,19,Honduras,74
+Christopher,40,Nauru,73
+Julie,47,Senegal,97
+Ryan,49,American Samoa,98
+Elizabeth,46,Djibouti,64
+Alejandro,52,Brazil,96
+Ellen,52,Taiwan,74
+Jessica,22,Uzbekistan,77
+Jo,37,Aruba,100
+Amy,41,Norway,86
+Jeff,40,Malta,70
+Michael,59,France,60
+Todd,38,Congo,74
+Kevin,35,Slovakia (Slovak Republic),63
+Gerald,51,Bolivia,96
+Janet,26,Northern Mariana Islands,89
+Andrew,38,Tunisia,68
+Richard,60,Iraq,69
+Tracy,55,Israel,62
+Christopher,30,Nigeria,74
+Christopher,36,San Marino,93
+Jordan,47,Guatemala,83
+Jessica,20,Netherlands Antilles,84
+David,30,Bouvet Island (Bouvetoya),76
+Sean,40,Nauru,75
+Jonathan,18,Saint Kitts and Nevis,88
+Jerry,37,Puerto Rico,83
+Ashley,59,Argentina,88
+Karen,34,Togo,76
+Donna,37,Luxembourg,85
+Denise,47,Israel,77
+Lori,43,Palestinian Territory,78
+Christian,43,Mauritania,62
+Scott,54,Bahrain,79
+David,31,Montenegro,93
+Mark,47,Burkina Faso,74
+Connor,43,South Georgia and the South Sandwich Islands,90
+Michael,39,Jordan,88
+Adam,22,France,67
+Lisa,33,Cuba,69
+Sabrina,38,Serbia,70
+Renee,47,Korea,86
+Katelyn,23,Ukraine,78
+Tyler,34,Equatorial Guinea,71
+Kathy,47,Antigua and Barbuda,81
+Kendra,40,Mozambique,74
+Katie,29,Slovenia,67
+Bruce,52,Spain,83
+Makayla,49,Moldova,63
+Kristina,27,Iraq,65
+Brittany,47,Mongolia,96
+Allen,37,Barbados,83
+Joshua,35,Heard Island and McDonald Islands,76
+Tyrone,44,Sierra Leone,89
+William,44,China,95
+Tyler,23,Tuvalu,82
+Douglas,40,Oman,76
+Kathryn,56,Faroe Islands,85
+Ashley,55,Chile,73
+Paul,39,Maldives,77
+Alicia,40,French Polynesia,81
+Ian,26,United Arab Emirates,77
+Jillian,32,Senegal,98
+Matthew,25,Grenada,67
+Bryan,50,Chad,86
+Patricia,22,El Salvador,92
+Jennifer,52,Lithuania,84
+John,53,Ecuador,95
+Jessica,34,Norfolk Island,92
+Mary,55,French Guiana,78
+Jason,19,Suriname,65
+Stacy,24,Tuvalu,61
+Zachary,43,Montserrat,85
+Austin,55,Holy See (Vatican City State),86
+Joseph,21,Ecuador,64
+Garrett,34,Portugal,89
+Wayne,33,Ukraine,66
+Luis,44,Afghanistan,76
+James,51,Venezuela,98
+Andrew,27,Estonia,76
+Curtis,54,Kazakhstan,91
+Neil,19,Anguilla,72
+Andrew,59,Malta,91
+Lindsey,22,Trinidad and Tobago,96
+Charles,41,Peru,68
+Nancy,22,Korea,67
+Stephen,24,South Georgia and the South Sandwich Islands,96
+Heather,39,Vietnam,80
+Margaret,56,Canada,86
+Andrew,24,Kenya,87
+Christina,28,Latvia,76
+Fernando,23,Armenia,76
+Charles,18,Slovenia,86
+Maria,38,Guinea-Bissau,78
+Anthony,56,Ukraine,99
+Janice,49,Togo,87
+Pamela,26,Taiwan,74
+Tina,59,Sri Lanka,70
+Rachel,47,Equatorial Guinea,80
+Nicholas,26,Saint Helena,85
+Brian,27,Christmas Island,68
+Larry,22,Korea,70
+Tyler,43,India,67
+Shane,38,Italy,60
+William,43,Haiti,89
+Eric,25,Moldova,83
+Andrew,55,Argentina,75
+Emily,34,Czech Republic,97
+Stacie,31,Burundi,79
+Matthew,53,Cocos (Keeling) Islands,72
+Debra,20,Equatorial Guinea,90
+Michelle,18,Denmark,90
+Kaitlin,45,Sudan,66
+Christopher,32,Panama,86
+Daniel,56,Montserrat,73
+Sandra,21,Palau,85
+Crystal,43,Bhutan,67
+Nicholas,40,Bulgaria,86
+Bradley,29,Netherlands,86
+Jared,19,Guatemala,95
+Terri,33,Namibia,79
+Connie,33,Madagascar,78
+Elizabeth,54,British Virgin Islands,65
+Darren,43,Niger,92
+Michael,27,Bahamas,98
+Garrett,41,Faroe Islands,63
+Gloria,41,Sri Lanka,91
+Michelle,37,Azerbaijan,73
+Thomas,35,Cuba,97
+Dana,56,Timor-Leste,96
+Lauren,43,South Georgia and the South Sandwich Islands,78
+Larry,55,Antarctica (the territory South of 60 deg S),61
+Sonya,25,Saint Martin,73
+Richard,22,Slovakia (Slovak Republic),86
+Katie,49,Benin,95
+Nancy,22,Saint Kitts and Nevis,77
+Anna,52,Nicaragua,62
+Melissa,28,Western Sahara,91
+Christina,29,Croatia,62
+Eric,51,Estonia,79
+Becky,58,South Africa,84
+Michael,55,Senegal,75
+Reginald,41,Reunion,71
+Ryan,38,Saint Lucia,82
+Stephanie,52,Myanmar,81
+Kyle,18,Gibraltar,80
+William,25,Spain,74
+Eric,20,Singapore,74
+Debra,25,Austria,65
+Allison,50,Puerto Rico,69
+Rachel,60,Vanuatu,85
+Michelle,52,Peru,92
+Daniel,37,Papua New Guinea,92
+Dennis,38,Saudi Arabia,92
+Michelle,57,Equatorial Guinea,89
+Martha,58,Faroe Islands,68
+Natalie,50,Kazakhstan,70
+Donna,53,Russian Federation,86
+Sarah,57,French Polynesia,93
+Tammy,26,Turks and Caicos Islands,78
+Tanya,26,Ukraine,62
+David,20,Montenegro,75
+Ryan,47,Portugal,98
+Edgar,29,Australia,68
+David,20,Jamaica,87
+Amy,31,Germany,71
+Randy,42,Pitcairn Islands,95
+Debra,41,Cameroon,99
+Sonya,50,Switzerland,66
+Elizabeth,58,Eritrea,68
+Alexandra,26,United States Virgin Islands,60
+Jack,38,Macao,84
+Laura,23,Kenya,98
+Judy,58,Monaco,75
+Shannon,22,Gibraltar,65
+Joseph,29,Iraq,67
+Wendy,33,Canada,65
+Sara,39,Cape Verde,69
+Benjamin,40,Switzerland,80
+Sara,59,Zimbabwe,93
+Justin,47,Central African Republic,81
+Chelsea,36,Ghana,81
+Carolyn,26,Papua New Guinea,60
+Joseph,18,Colombia,80
+Lisa,35,Switzerland,72
+Alyssa,44,South Georgia and the South Sandwich Islands,95
+Cindy,47,Tunisia,83
+Jessica,49,Brunei Darussalam,87
+Willie,43,Cuba,66
+Bruce,22,Jersey,77
+Glenn,53,Anguilla,70
+Ashley,47,Marshall Islands,95
+Colleen,20,Slovakia (Slovak Republic),78
+Michelle,29,French Polynesia,87
+Alan,19,Seychelles,74
+Amy,59,Dominica,89
+Kimberly,43,Czech Republic,74
+Joseph,60,Norway,78
+Dana,23,Guatemala,97
+Miguel,48,Cocos (Keeling) Islands,96
+Kevin,25,Mauritania,67
+Andrew,59,Zimbabwe,64
+William,23,Antarctica (the territory South of 60 deg S),88
+Tracy,34,Ireland,87
+Jeremy,55,France,88
+Deanna,34,Timor-Leste,77
+Dustin,29,Swaziland,72
+Mario,46,Rwanda,88
+Kelly,21,Algeria,88
+Jennifer,55,Antarctica (the territory South of 60 deg S),90
+Dawn,35,Guam,90
+Gina,52,Morocco,84
+Robert,22,Iceland,94
+Kenneth,50,French Polynesia,70
+Maureen,33,Macao,93
+Jessica,30,Macao,71
+Noah,38,Gabon,91
+Joseph,55,Korea,89
+Raven,55,Botswana,63
+Pamela,37,Palau,63
+Melissa,24,Maldives,80
+Cynthia,19,Togo,64
+Diana,50,Saint Barthelemy,65
+Stephanie,32,United States Virgin Islands,93
+Paul,20,Namibia,76
+Jessica,46,Bouvet Island (Bouvetoya),92
+Thomas,42,Syrian Arab Republic,79
+Paul,39,Turkmenistan,99
+Teresa,18,Kenya,83
+Bruce,49,Finland,93
+Tammie,22,United Kingdom,77
+Kevin,24,Bosnia and Herzegovina,61
+Carolyn,31,Pakistan,78
+Lynn,43,Iran,76
+Brenda,39,British Virgin Islands,73
+Aaron,52,Gambia,63
+Brenda,56,Panama,74
+Robert,57,Algeria,70
+Logan,56,Saint Barthelemy,64
+George,58,Kazakhstan,99
+Meredith,55,Saint Vincent and the Grenadines,98
+Angela,50,Gibraltar,97
+Alfred,50,Western Sahara,87
+Janice,53,Saint Lucia,73
+Amy,39,Korea,96
+Daniel,45,Guinea,67
+Sarah,19,Seychelles,61
+Brianna,33,Philippines,75
+Jeremy,35,Bulgaria,75
+Christine,30,Trinidad and Tobago,97
+Barbara,25,Iran,79
+Collin,35,Ireland,67
+Tara,18,Sudan,95
+Jennifer,38,India,85
+Julie,28,Kiribati,85
+Elizabeth,30,India,89
+Ralph,47,Nauru,96
+Brian,24,United Arab Emirates,88
+Jessica,39,Canada,76
+Mackenzie,26,Lithuania,74
+Mark,28,Bahamas,91
+Kayla,41,Denmark,61
+Timothy,29,Uzbekistan,98
